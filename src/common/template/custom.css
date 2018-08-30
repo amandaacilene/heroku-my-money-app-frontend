@@ -1,0 +1,44 @@
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+button{
+    margin-left: 5px;
+}
+.table-actions{
+    width: 150px;
+}
+.padding{
+    padding-top: 15px;
+}
+.app-content{
+    height: 100vh;
+}
+.profile-header{
+    padding: 1%;
+}
+.icon{
+    -webkit-min-device-pixel-ratio: 2;
+}
+.img-circle{
+    border-color: #337ab775;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    border: 3px solid #337ab775;
+    -webkit-box-shadow: 0 0 40px -10px #337ab775;
+    box-shadow: 0 0 40px -10px #337ab775;
+}
+.page-content{
+    text-align: center;
+}
+.subhead{
+    padding-top: 1%;
+}
+.contentName{
+    padding: 1%; 
+}
+.text{
+    margin: -20px;
+}
